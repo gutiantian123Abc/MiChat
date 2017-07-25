@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

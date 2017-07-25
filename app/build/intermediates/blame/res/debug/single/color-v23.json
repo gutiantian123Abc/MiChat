@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

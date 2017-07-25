@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:3:5-26
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:5:5-36:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/4cfd623b3df7574cc5a5c6cbcd7458b6f55278f7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/aae5007fc83672c5c519fdba2d272f487d3b45a1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/f054202eee643a3335f304a4fa1078970d9838f6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/6302e118272489131a0ce10e30e68efa6e5fe553/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/2f59efbd19bcaae49040b1755bbb7b20157fad73/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/06306bc356a01ea18b3effda64975664cbea5544/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/b1a3b85c35f687aa098914d820c0f34be0749240/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/425e2ceab9428338db45e38f4392cebb387f91fb/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:11:9-40
+meta-data#RONG_CLOUD_APP_KEY
+ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:14:9-16:44
+	android:value
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:16:13-42
+	android:name
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:15:13-46
+service#io.rong.imlib.ipc.RongService
+ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:18:9-21:37
+	android:process
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:21:13-35
+	android:exported
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:19:13-57
+service#io.rong.imlib.ReConnectService
+ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:23:9-25:38
+	android:exported
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:24:13-58
+receiver#io.rong.imlib.ConnectChangeReceiver
+ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:27:9-29:38
+	android:exported
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:28:13-63
+receiver#io.rong.imlib.HeartbeatReceiver
+ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:31:9-33:37
+	android:process
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:33:13-35
+	android:name
+		ADDED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml:32:13-59
+uses-sdk
+INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/4cfd623b3df7574cc5a5c6cbcd7458b6f55278f7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/aae5007fc83672c5c519fdba2d272f487d3b45a1/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/f054202eee643a3335f304a4fa1078970d9838f6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/6302e118272489131a0ce10e30e68efa6e5fe553/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/2f59efbd19bcaae49040b1755bbb7b20157fad73/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/06306bc356a01ea18b3effda64975664cbea5544/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/b1a3b85c35f687aa098914d820c0f34be0749240/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/425e2ceab9428338db45e38f4392cebb387f91fb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] /Users/xiangtiangu/.android/build-cache/90e56457a793d9d0a2fbb8925e491ec4aa462b40/output/AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xiangtiangu/AndroidStudioProjects/MiChat/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/4cfd623b3df7574cc5a5c6cbcd7458b6f55278f7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/aae5007fc83672c5c519fdba2d272f487d3b45a1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/f054202eee643a3335f304a4fa1078970d9838f6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/6302e118272489131a0ce10e30e68efa6e5fe553/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/2f59efbd19bcaae49040b1755bbb7b20157fad73/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/06306bc356a01ea18b3effda64975664cbea5544/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/b1a3b85c35f687aa098914d820c0f34be0749240/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/425e2ceab9428338db45e38f4392cebb387f91fb/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/AndroidManifest.xml:26:9-47

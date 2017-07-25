@@ -1,4 +1,4 @@
-package mimi.michat.app;
+package mimi.michat.app.base;
 
 import android.app.Activity;
 import android.content.Context;

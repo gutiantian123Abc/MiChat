@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/xiangtiangu/AndroidStudioProjects/MiChat/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/xiangtiangu/.android/build-cache/fe00940317dc62e9c795c1ba7fe1b5745ce13393/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
